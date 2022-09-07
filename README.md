@@ -12,6 +12,7 @@
 ## 🚀 Tecnologias
 
 ![React](https://img.shields.io/badge/-React-05122A?style=for-the-badge&color=282a36&logo=react)&nbsp;
+![Vite](https://img.shields.io/badge/-Vite-05122A?style=for-the-badge&color=282a36&logo=vite)&nbsp;
 ![Typescript](https://img.shields.io/badge/-Typescript-05122A?style=for-the-badge&color=282a36&logo=Typescript)&nbsp;
 ![Sass](https://img.shields.io/badge/-SASS-05122A?style=for-the-badge&color=282a36&logo=sass)&nbsp;
 ![Firebase](https://img.shields.io/badge/-Firebase-05122A?style=for-the-badge&color=282a36&logo=firebase)&nbsp;
